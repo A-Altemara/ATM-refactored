@@ -4,6 +4,11 @@ Simple React ATM
 
 A React based ATM simulator that allows deposits and withdrawals and tracks the balance in the window.  It also alerts the user if they attempt to remove funds beyond the users balance and prevents them from doing so.
 
+Road Map
+Improve styling
+Return to button options to make more like real world ATMs
+Submit button only appears once amounts are provided and meet validation.
+
 MIT License
 
 Copyright (c) 2023
